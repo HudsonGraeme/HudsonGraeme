@@ -1,18 +1,11 @@
-# Happy New Year :tada:
+<img src="https://user-images.githubusercontent.com/25019680/103472734-e8077700-4d5e-11eb-8632-c01c309ba70a.png" width="100%"/>
 
-Hey, welcome to my profile!
 
-## Past Projects
+## Projects I'm working on
 
-### Sites I maintain
 Site | Description
 :-:|---
 | [Carspotter.ca][CSD] | My main site containing several endeavours of the past. Several subdomains exist for various purposes such as [puravida][PVCSD] & [apps][ACSD] |
-
-### Sites I am working on
-
-Site | Description
-:-:|---
 | [LabelShame.ca][LS] | _Coming Soon_ |
 | [ClearKard.co][CKCO] | _Coming Soon_ |
 
