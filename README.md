@@ -1,19 +1,20 @@
 # Happy New Year :tada:
 
-Thanks for visiting my profile! 
+Hey, welcome to my profile!
 
 ## Past Projects
 
 ### Sites I maintain
-
-- [Carspotter.ca][CSD] - My main site containing several endeavours of the past. Several subdomains exist for various purposes such as [puravida][PVCSD] & [apps][ACSD]
+Site | Description
+:-:|---
+| [Carspotter.ca][CSD] | My main site containing several endeavours of the past. Several subdomains exist for various purposes such as [puravida][PVCSD] & [apps][ACSD] |
 
 ### Sites I am working on
 
-- [LabelShame.ca][LS] - _Coming Soon_
-- [ClearKard.co][CKCO] - _Coming Soon_
-
-
+Site | Description
+:-:|---
+| [LabelShame.ca][LS] | _Coming Soon_ |
+| [ClearKard.co][CKCO] | _Coming Soon_ |
 
 
 [CSD]: https://carspotter.ca "Carspotter Daily Photography"
